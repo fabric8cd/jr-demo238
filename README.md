@@ -5,6 +5,9 @@ _http://hostname:port/api/greeting_ and returns a JSON response containing the _
 
 ```json
 {
+
+
+
     "content": "Hello, World!"
 }
 ```
